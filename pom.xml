@@ -27,7 +27,7 @@
 
 	<groupId>br.com.thiagomoreira.liferay.plugins.share-button-app</groupId>
 	<artifactId>share-button-app-parent</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Share Button App Parent</name>
@@ -44,7 +44,7 @@
 		<connection>scm:git:git@github.com:tmoreira2020/share-button-app.git</connection>
 		<developerConnection>scm:git:git@github.com:tmoreira2020/share-button-app.git</developerConnection>
 		<url>https://github.com/tmoreira2020/share-button-app</url>
-		<tag>share-button-app-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
