@@ -20,7 +20,7 @@ Maven:
 <dependency>
     <groupId>br.com.thiagomoreira.liferay.plugins.share-button-app</groupId>
     <artifactId>share-button-app</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <type>lpkg</type>
 </dependency>
 ```
@@ -28,7 +28,7 @@ Gradle:
 
 ```groovy
 dependencies {
-    compile(group: "br.com.thiagomoreira.liferay.plugins.share-button-app", name: "share-button-portlet", version: "0.0.1-SNAPSHOT", type: "lpkg");
+    compile(group: "br.com.thiagomoreira.liferay.plugins.share-button-app", name: "share-button-portlet", version: "1.0.0", type: "lpkg");
 }
 ```
 ### Support
